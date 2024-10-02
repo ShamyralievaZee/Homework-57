@@ -1,8 +1,10 @@
+import UserControl from './Components/UserControl/UserControl.tsx';
+
 const App = () => {
   return (
-    <div className="container mt-4">
-
-    </div>
+  <>
+    <UserControl/>
+  </>
   );
 };
 
