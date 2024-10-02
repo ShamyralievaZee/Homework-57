@@ -1,12 +1,9 @@
-import './App.css'
-
-function App() {
-
+const App = () => {
   return (
-    <>
+    <div className="container mt-4">
 
-    </>
-  )
-}
+    </div>
+  );
+};
 
-export default App
+export default App;
